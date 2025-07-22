@@ -1,7 +1,7 @@
 # hsp-deck-crawler
 
 # Overview
-This is an automated scraper for collecting deck data from the Hearthstone Wild Decks section of Hearthpwn.<br>
+This is an automated scraper for collecting deck data from [the Hearthstone Decks section of Hearthpwn](https://www.hearthpwn.com/decks?filter-show-constructed-only=y&filter-deck-tag=1).<br>
 
 # Usage
 Simply run main.py to start the scraping process.<br>
